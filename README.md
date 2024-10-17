@@ -9,5 +9,5 @@
 ### 🧰 [Quilt Serverside Mods](https://serverside.infra.link/)
 - Serverside mods for the modloaders Fabric and Quilt.
 
-### 🔥 Book Ban / Packet Overload Restoration
+### 🔥 Chunk Ban / Packet Overload Restoration
 - If chunks on your server have had a packet overload, you will need to join the server with the mod [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) installed on your client, and permanently dispose of the item at fault via the creative inventory.
